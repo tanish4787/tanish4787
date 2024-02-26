@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanish4787
 - 👀 I’m interested in making projects according to needs of the clients.
 - 🌱 I’m currently learning REACT.JS
-- 💞️ I’m looking to collaborate on various Frontend projects to learn more and polish my Developing Skills (Any Interships are warmly welcomed.)
+- 💞️ I’m looking to collaborate on various Frontend projects to learn more and polish my Developing Skills (Any Interships are warmly welcome.)
 - 📫 Reach me at- tanish4787@gmail.com
 - ⚡ Fun fact: A Versatile and Quick Learner who loves to collect hands-on experience in making projects.
 
